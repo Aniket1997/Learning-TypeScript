@@ -12,3 +12,6 @@ function sum (a:number,b:number):number
 }
 
 console.log(sum(10,23));
+
+let validNumber:number = NaN;
+console.log(NaN);
